@@ -1,0 +1,42 @@
+
+.our_story {
+    font-family: 'Futura';
+    font-size: 40px;
+}
+
+.owners_picture {
+    display: table;
+    float: center;
+    text-align: right;
+    width:450px;
+    height:550px;
+    padding-top: 20px;
+}
+
+.background_info {
+    text-align: left;
+    font-size: 26px;
+    font-family: 'Futura';
+    
+}
+
+.ui.header {
+    font-family: 'Futura' !important;
+}
+
+.about_us {
+    font-family: 'Futura';
+    font-size: 40px;
+    padding-top: 40px;
+}
+
+.our_storytext {
+    padding-top: 30px;
+    padding-bottom: 30px;
+    font-size: 24px;
+    line-height: 2;
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+}
+

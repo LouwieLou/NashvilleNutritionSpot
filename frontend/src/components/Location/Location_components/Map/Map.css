@@ -1,0 +1,41 @@
+.map-h1 {
+    text-transform: uppercase;
+    font-family: 'Futura';
+    font-size: 40px;
+    padding: 20px;
+    padding-top: 40px;
+    padding-left: 10px;
+    padding-bottom: 10px;
+    text-align: center;
+  }
+  
+  .google-map {
+    width: auto;
+  }
+  
+  .pin {
+    display: flex;
+    align-items: center;
+    width: 180px;
+    color: var(--main-blue);
+  }
+  
+  .pin-icon {
+    font-size: 4rem;
+  }
+  
+  .pin-text {
+    font-size: 1.3em;
+  }
+  
+  @media screen and (min-width: 799px) {
+    .google-map {
+      width: auto;
+    }
+  
+    .map-h2 {
+      font-size: 1.3rem;
+      font-weight: 400;
+    }
+
+  }

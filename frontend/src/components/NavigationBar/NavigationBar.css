@@ -1,0 +1,13 @@
+.logo-border {
+    border-radius: 0;
+    padding: 0.05em !important;  
+    width: auto;
+    height: 125px;
+    width: 125px;
+    float: left; 
+}
+
+svg {
+      width:  auto !important;
+      height: auto !important;
+}

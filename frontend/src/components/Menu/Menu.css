@@ -1,0 +1,80 @@
+/* 
+name: Menu.css
+description: design elements, specific configuations for
+each element. 
+In the Menu.js file, typing className="NAME" applies the 
+attributes listed in this file. For the particular class, the CSS
+attributes are listed in the block titled:
+.NAME {
+}
+*/
+
+/* centers text */
+.item-description, .item-name {
+    overflow: hidden;
+    text-overflow: ellipsis;
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+    align-items: center;
+}
+
+.menu-header {
+    font-size: 40px !important;
+}
+
+.menu-title {
+    width: 100%;
+    height: 50px;
+    margin: 0px;
+    padding: 0px;
+}
+
+.ui.styled.accordion .accordion .title, 
+.ui.styled.accordion .title {
+    margin: auto !important;
+    padding: 3.0em 1em !important;
+}
+
+.ui.accordion .title:not(.ui) {
+    font-size: 1.3em !important;
+    text-align: center;
+
+}
+
+.ui.fluid.accordion, .ui.fluid.accordion .accordion {
+    margin-top: 2.5%;
+    width: 75% !important;
+    margin-right: auto !important;
+    margin-left: auto !important;
+}
+
+.content {
+    margin-top: 0px;
+}
+
+
+.add-button {
+    display: flex;
+    justify-content: center;
+}
+
+
+.add-to-cart:hover {
+    background: #4BB543 !important;
+    color: #fff !important;
+}
+
+.card-item {
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.card-item:hover {
+    -moz-transform: translate(-2px, -2px);
+    -ms-transform: translate(-2px, -2px);
+    -o-transform: translate(-2px, -2px);
+    -webkit-transform: translate(-2px, -2px);
+    transform: translate(-2px, -2px)
+}

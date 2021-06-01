@@ -1,0 +1,26 @@
+.group-form {
+    display: flex;
+    justify-content: center;
+    margin-top: 2.5%;
+    margin-bottom: 2.5%;
+    margin-right: 2.5%;
+}
+
+.input-form {
+    margin-top: 2.5%;
+    padding-left: 2.5%;
+    padding-right: 2.5%;
+    margin-bottom: 2.5%;
+
+}
+
+.payment-form {
+    margin-top: 2.5%;
+    padding-left: 2.5%;
+    padding-right: 2.5%;
+}
+
+.asterisk{
+    color: red;
+}
+

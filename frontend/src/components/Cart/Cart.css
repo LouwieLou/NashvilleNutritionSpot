@@ -1,0 +1,66 @@
+/* 
+name: Cart.css
+description: design elements, specific configuations for
+each element. 
+In the Cart.js file, typing className="NAME" applies the 
+attributes listed in this file. For the particular class, the CSS
+attributes are listed in the block titled:
+.NAME {
+}
+*/
+
+.up-arrow-icon:hover{
+    -moz-transform: translate(0px, -2px);
+    -ms-transform: translate(0px, -2px);
+    -o-transform: translate(0px, -2px);
+    -webkit-transform: translate(0px, -2px);
+    transform: translate(0px, -2px)
+}
+
+.down-arrow-icon:hover{
+    -moz-transform: translate(0px, -2px);
+    -ms-transform: translate(0px, -2px);
+    -o-transform: translate(0px, -2px);
+    -webkit-transform: translate(0px, -2px);
+    transform: translate(0px, -2px)
+}
+
+.up-arrow:hover {
+    color: #4BB543;
+}
+
+.down-arrow:hover {
+    color: #ff3333;
+}
+
+
+.list-box {
+    border: 1px solid black !important;
+    border-spacing: 20px !important;
+    width: 200px;
+    height: 225px;
+    margin: auto;
+}
+
+
+.no-items {
+    margin-left: auto;
+    margin-right: auto;
+    text-transform: capitalize;
+}
+
+.remove-btn:hover{
+    background: #ff3333 !important;
+    color: #fff !important;
+}
+
+.cart-card {
+    margin-bottom: 0 !important;
+    margin-left: 20px !important;
+}
+
+.cart-grid {
+    justify-content: center;
+    margin-bottom: .1% !important;
+
+}

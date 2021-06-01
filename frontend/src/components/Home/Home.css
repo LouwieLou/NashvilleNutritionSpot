@@ -1,0 +1,92 @@
+.img {
+    float: left;
+    height: auto;
+    width: 400 px; 
+}
+
+ .logo-name {
+    width:500px;
+    height:400px;
+    padding: 10px; 
+    margin: 100px;
+}
+
+ .snippet {
+     font-family: 'Futura';
+     font-size: calc(12px + 2.5vw);
+     text-align: center;
+     padding-bottom: 1%;
+     margin: auto;
+     text-transform: none;
+     word-break: keep-all;
+     width: 75%;
+}
+
+.orderbutton {
+    text-align: center;
+    padding-bottom: 0px;
+}
+
+.order-now:hover {
+    background: #4BB543 !important;
+    color: #fff !important;
+}
+
+.smoothie_week {
+    text-align: center;
+    font-family: 'Futura';
+    font-size: calc(10px + 2vw);
+    text-transform: capitalize;
+}
+
+.pictures {
+    display: flex;
+    justify-content: center;
+}
+
+img.captain_america {
+    text-align: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 550px;
+    height: 700px;
+    padding: 15px;
+}
+
+.captain_america_caption {
+    text-align: center;
+    font-family: 'Futura';
+    font-size: 40px;
+    padding: 15px;
+}
+
+img.watermelon_crawl {
+    text-align: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 550px;
+    height: 700px;
+    padding: 15px;
+}
+
+.watermelon_crawl_caption {
+    text-align: center;
+    font-family: 'Futura';
+    font-size: 40px;
+    padding: 15px;
+}
+
+.Quote {
+    text-align: center;
+    font-size: calc(10px + 1.5vw);
+    font-family: 'Futura';
+    padding: 15px;
+    line-height: 2;
+    text-transform: none;
+    
+}
+
+
+

@@ -1,0 +1,65 @@
+.logo-name {
+    flex: 1;
+    aspect-ratio: 1;
+    height: 350px; 
+    width: 250px;
+    padding-right: 10px; 
+}
+
+.Location {
+    text-align: left;
+    font-family: 'Futura';
+    padding-right:140px;
+    padding-top: 150px;
+}
+
+.location_picture {
+    width:600px;
+    height:600px;
+    padding-top: 30px;
+}
+
+.location_info {
+    position: relative;
+    top: 30px;
+    float: left;
+    margin-left: 90px;
+}
+
+
+.directions_button:hover {
+    background: black !important;
+    color: white !important;
+}
+
+
+.location_header {
+    font-family: 'Futura';
+    padding-bottom: 20px;
+}
+
+.address {
+    font-family: 'Futura';
+    padding-top: 30px;
+    padding-bottom: 30px;
+    font-size: 20px
+}
+
+.address_title {
+    font-size: 45px;
+}
+
+.phone_number {
+    font-size: 45px;
+}
+
+.hours {
+    font-family: 'Futura';
+    font-size: 20px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+.hours_title {
+    color: white;
+}
